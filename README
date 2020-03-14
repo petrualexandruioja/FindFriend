@@ -1,0 +1,3 @@
+Write a method that given a list of friends computes the shortest path between 2 given friends  A and B
+It is run with py -3 main.py
+
